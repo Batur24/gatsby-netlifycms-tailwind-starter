@@ -37,7 +37,7 @@ const IndexPageTemplate = ({
                   {subheading}
                 </p>
                 <PrimaryButton to="/contact" className="mt-6 lg:mt-10">
-                  Contact us
+                  联系我们
                 </PrimaryButton>
               </div>
             </div>

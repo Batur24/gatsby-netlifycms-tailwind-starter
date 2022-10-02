@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: 日本华人服务
-image: /img/chuttersnap-ifmqouokaoa-unsplash.jpg
+image: /img/temple.jpg
 heading: 连接日本与中国
 subheading: "更好地服务在日本的华人"
 about:

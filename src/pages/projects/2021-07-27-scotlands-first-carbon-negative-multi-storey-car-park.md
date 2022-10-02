@@ -4,7 +4,7 @@ title: 日本移民
 date: 2021-07-22T10:38:30.300Z
 featured: true
 featuredimage:
-  image: /img/danist-dqxiw7ncb9q-unsplash.jpg
+  image: /img/japanese-passport.jpg
   alt: multi-storey car park with green plants
 location: Glasgow, Scotland
 ---

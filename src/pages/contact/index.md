@@ -11,11 +11,11 @@ office:
   tagline: Our Office
   location: London Spitalfield
   address: |-
-    UrbanGarden\
-    143 Fake Street\
-    London
+    日本华人咨询\
+    143号东山盯\
+    东京
   phone: |-
-    Email: fake@urbangarden.com\
+    Email: hello@englishtutor.jp\
     Phone: 01234 567 891\
     Monday to Friday 9-6pm GMT.
   image: /img/klaudia-piaskowska-g3lrnieizq4-unsplash.jpg

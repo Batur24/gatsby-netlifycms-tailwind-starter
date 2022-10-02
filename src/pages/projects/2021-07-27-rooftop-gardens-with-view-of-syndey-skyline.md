@@ -1,10 +1,10 @@
 ---
 templateKey: project-page
-title: Rooftop gardens with view of Syndey skyline
+title: 日本留学
 date: 2021-07-21T10:14:24.359Z
 featured: true
 featuredimage:
-  image: /img/chuttersnap-nxjyzlbnyuq-unsplash.jpg
+  image: /img/study.jpg
   alt: rooftop garden
 location: Sydney, Australia
 ---

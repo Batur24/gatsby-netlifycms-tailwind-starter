@@ -3,7 +3,7 @@ const siteUrl =
 
 module.exports = {
   siteMetadata: {
-    title: "UrbanGarden",
+    title: "日本华人咨询",
     description:
       "Transforming and enriching our urban environments with green living spaces",
     siteUrl: "https://objective-thompson-fe2703.netlify.app",
@@ -72,8 +72,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `UrbanGarden`,
-        short_name: `UrbanGarden`,
+        name: `日本华人咨询`,
+        short_name: `日本华人咨询`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#047857`,
