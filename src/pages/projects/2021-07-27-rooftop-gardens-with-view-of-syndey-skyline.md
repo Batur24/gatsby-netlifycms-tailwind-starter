@@ -6,7 +6,7 @@ featured: true
 featuredimage:
   image: /img/study.jpg
   alt: rooftop garden
-location: Sydney, Australia
+location: 日本への留学
 ---
 Photo by [CHUTTERSNAP](https://unsplash.com/@chuttersnap?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/collections/kDVcVtpJNeA/urban-garden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

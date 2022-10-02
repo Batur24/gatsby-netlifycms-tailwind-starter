@@ -6,7 +6,7 @@ featured: false
 featuredimage:
   image: /img/copernico-p_kicqcom4s-unsplash-1-.jpg
   alt: people working in office with plants
-location: Kopenhagen, Denmark
+location: 日本への留学
 ---
 Praesent purus leo, dictum eget malesuada quis, tempus non enim. Donec interdum id nisi et ullamcorper. Curabitur vulputate nulla non pharetra lobortis. Suspendisse potenti. Nulla facilisi. Suspendisse eu ultricies tortor, vitae iaculis velit. Quisque a tellus sagittis, convallis dolor a, placerat tortor. Curabitur pulvinar sapien eu ligula mattis mollis. Aliquam id ornare leo. Donec quam orci, viverra vel hendrerit mattis, vehicula et ex. In vitae tincidunt neque.
 

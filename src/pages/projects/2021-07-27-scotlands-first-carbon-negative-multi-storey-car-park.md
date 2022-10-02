@@ -6,7 +6,7 @@ featured: true
 featuredimage:
   image: /img/japanese-passport.jpg
   alt: multi-storey car park with green plants
-location: Glasgow, Scotland
+location: 日本への移民
 ---
 Photo by [Danist Soh](https://unsplash.com/@danist07?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/collections/kDVcVtpJNeA/urban-garden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

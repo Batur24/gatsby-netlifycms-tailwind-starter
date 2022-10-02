@@ -26,8 +26,7 @@ const Footer = () => {
               </Link>
 
               <p className="max-w-md mt-2 text-gray-600 dark:text-gray-400">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis, nisi! Id.
+                以最真诚的态度服务在日华人
               </p>
             </div>
           </div>
@@ -36,7 +35,7 @@ const Footer = () => {
             <div className="grid grid-cols-2 gap-6 sm:grid-cols-3 md:grid-cols-4">
               <div>
                 <h3 className="text-gray-700 uppercase dark:text-white">
-                  About
+                  关于我们
                 </h3>
                 <Link
                   to="/"
@@ -60,7 +59,7 @@ const Footer = () => {
 
               <div>
                 <h3 className="text-gray-700 uppercase dark:text-white">
-                  Blog
+                  博客
                 </h3>
                 <Link
                   to="/"
@@ -84,7 +83,7 @@ const Footer = () => {
 
               <div>
                 <h3 className="text-gray-700 uppercase dark:text-white">
-                  Products
+                  服务
                 </h3>
                 <a
                   href="https://www.gatsbyjs.com/"
@@ -114,7 +113,7 @@ const Footer = () => {
 
               <div>
                 <h3 className="text-gray-700 uppercase dark:text-white">
-                  Contact
+                  联系我们
                 </h3>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
                   +1 526 654 8965

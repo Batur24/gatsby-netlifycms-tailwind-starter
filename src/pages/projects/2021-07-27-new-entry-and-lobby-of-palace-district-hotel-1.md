@@ -6,7 +6,7 @@ featured: false
 featuredimage:
   alt: Modern building with green outdoor space
   image: /img/learn-japanese.jpeg
-location: Bern, Swizerland
+location: 日本語研修
 ---
 Photo by [Ricardo Gomez Angel](https://unsplash.com/@ripato?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/collections/kDVcVtpJNeA/urban-garden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

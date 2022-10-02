@@ -6,7 +6,7 @@ featured: false
 featuredimage:
   image: /img/paul-szewczyk-ni4ac1katrc-unsplash.jpg
   alt: large garden with pool
-location: Prachuap Khiri Khan, Thailand
+location: 英語研修
 ---
 Photo by [Paul Szewczyk](https://unsplash.com/@allphotobangkok?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/collections/kDVcVtpJNeA/urban-garden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
