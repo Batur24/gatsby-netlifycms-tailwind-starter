@@ -1,12 +1,11 @@
 ---
 templateKey: contact-page
-title: Contact
-heading: Contact us
-subheading: Visit us in our offices or simply drop us a message
+title: 联系我们
+heading: 联系我们
+subheading: 有任何疑问，可以发邮寄给我们 hello@englishtutor.jp
 contactform:
-  heading: Let's work together!
-  description: We'd love to hear from you. Send us a message using the form below,
-    or email us.
+  heading: 欢迎给我们提建议
+  description: 对我们的服务有任何建议，可以通过我们的邮箱与我们联系，我们会及时回复。
   image: /img/copernico-p_kicqcom4s-unsplash-1-.jpg
 office:
   tagline: Our Office

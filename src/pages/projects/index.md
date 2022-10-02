@@ -1,6 +1,6 @@
 ---
 templateKey: projects-page
-title: Projects
-heading: Our Projects
-subheading: Transforming urban spaces all over the world
+title: 我们的服务
+heading: 我们的服务
+subheading: 为在日华人提供全方面的服务
 ---

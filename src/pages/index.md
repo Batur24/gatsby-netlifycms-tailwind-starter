@@ -1,18 +1,16 @@
 ---
 templateKey: index-page
-title: Connecting People with Nature
+title: 日本华人服务
 image: /img/chuttersnap-ifmqouokaoa-unsplash.jpg
-heading: Connecting People with Nature*
-subheading: "*A Gatsby v3 starter template set up with Netlify CMS and Tailwind CSS."
+heading: 连接日本与中国
+subheading: "更好地服务在日本的华人"
 about:
-  heading: Who we are
-  description: "Our team of architects, gardeners and enginners is working with
-    clients all over the world to transform urban spaces with the best nature
-    provides."
+  heading: 我们是谁？
+  description: "我们是在日本的华人团队，为在日的华人同胞提供各方面的服务"
   image:
     image: /img/leon-tho1_oukbg0-unsplash.jpg
-    alt: people working in agency
+    alt: 服务
   button:
     url: /about
-    label: Find out more
+    label: 更多
 ---

@@ -56,9 +56,9 @@ const IndexPageTemplate = ({
       {/* Featured projects */}
       <Container>
         <div className="flex justify-between items-baseline">
-          <SectionHeading>Our projects from all over the world</SectionHeading>
+          <SectionHeading>我们的服务</SectionHeading>
           <Link className="text-green-700 underline hover:text-green-800" to="/projects">
-            View all
+            全部
           </Link>
         </div>
         <div className="mt-8">

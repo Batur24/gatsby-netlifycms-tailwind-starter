@@ -1,6 +1,6 @@
 ---
 templateKey: project-page
-title: New entry and lobby of Palace District hotel
+title: 日语培训
 date: 2021-07-23T10:42:17.142Z
 featured: true
 featuredimage:
