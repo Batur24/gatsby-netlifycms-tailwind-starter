@@ -1,10 +1,10 @@
 ---
 templateKey: project-page
-title: Vertical garden wall at local park and café
+title: 日本租房
 date: 2021-07-25T16:02:13.958Z
 featured: false
 featuredimage:
-  image: /img/sirisvisual-g7f4ig7n2wu-unsplash.jpg
+  image: /img/rent.jpg
   alt: Woman in front of building with green wall
 location: Paris, France
 ---

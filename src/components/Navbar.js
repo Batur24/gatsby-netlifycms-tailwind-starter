@@ -64,8 +64,8 @@ const Navbar = ({ className }) => {
               placeholder="blurred"
             />
             <div className="text-xl font-bold tracking-wide lg:text-2xl">
-              <span className="text-gray-800 font-semibold">Urban</span>
-              <span className="text-green-700">Garden</span>
+              <span className="text-gray-800 font-semibold">日本</span>
+              <span className="text-green-700">华人服务</span>
             </div>
           </Link>
 
@@ -100,7 +100,7 @@ const Navbar = ({ className }) => {
                 setMenuOpen(false)
               }}
             >
-              Home
+              首页
             </ExactNavLink>
             <PartialNavLink
               to="/projects"
@@ -108,7 +108,7 @@ const Navbar = ({ className }) => {
                 setMenuOpen(false)
               }}
             >
-              Projects
+              服务
             </PartialNavLink>
             <ExactNavLink
               to="/about"
@@ -116,7 +116,7 @@ const Navbar = ({ className }) => {
                 setMenuOpen(false)
               }}
             >
-              About
+              关于我们
             </ExactNavLink>
             <ExactNavLink
               to="/contact"
@@ -124,7 +124,7 @@ const Navbar = ({ className }) => {
                 setMenuOpen(false)
               }}
             >
-              Contact
+              联系
             </ExactNavLink>
             <a
               href="https://github.com/jimmybutton/gatsby-netlifycms-tailwind-starter"
