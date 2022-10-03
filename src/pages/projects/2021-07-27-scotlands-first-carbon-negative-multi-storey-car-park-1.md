@@ -2,7 +2,7 @@
 templateKey: project-page
 title: 英语培训
 date: 2021-07-27T16:02:23.485Z
-featured: false
+featured: true
 featuredimage:
   image: /img/paul-szewczyk-ni4ac1katrc-unsplash.jpg
   alt: large garden with pool
