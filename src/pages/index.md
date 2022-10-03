@@ -2,8 +2,8 @@
 templateKey: index-page
 title: 日本华人服务
 image: /img/temple.jpg
-heading: 连接日本与中国
-subheading: "更好地服务在日本的华人"
+heading: 开始您的日本留学生活
+subheading: "您的新旅程，让我们为您服务。あなたの新しい旅、私たちがあなたに仕えましょう。"
 about:
   heading: 我们是谁？
   description: "我们是在日本的华人团队，为在日的华人同胞提供各方面的服务"

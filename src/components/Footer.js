@@ -30,7 +30,7 @@ const Footer = () => {
               </p>
             </div>
           </div>
-
+{/* 
           <div className="mt-6 lg:mt-0 lg:flex-1">
             <div className="grid grid-cols-2 gap-6 sm:grid-cols-3 md:grid-cols-4">
               <div>
@@ -123,7 +123,7 @@ const Footer = () => {
                 </span>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
 
         <hr className="h-px my-6 bg-gray-300 border-none dark:bg-gray-700" />
