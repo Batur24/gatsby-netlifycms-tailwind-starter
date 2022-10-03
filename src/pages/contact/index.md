@@ -8,11 +8,11 @@ contactform:
   description: 对我们的服务有任何建议，可以通过我们的邮箱与我们联系，我们会及时回复。
   image: /img/copernico-p_kicqcom4s-unsplash-1-.jpg
 office:
-  tagline: Our Office
-  location: London Spitalfield
+  tagline: 办公室
+  location: 东京东山町143号
   address: |-
     日本华人咨询\
-    143号东山盯\
+    143号东山町\
     东京
   phone: |-
     Email: hello@englishtutor.jp\

@@ -30,7 +30,7 @@ const Footer = () => {
               </p>
             </div>
           </div>
-{/* 
+
           <div className="mt-6 lg:mt-0 lg:flex-1">
             <div className="grid grid-cols-2 gap-6 sm:grid-cols-3 md:grid-cols-4">
               <div>
@@ -86,28 +86,28 @@ const Footer = () => {
                   服务
                 </h3>
                 <a
-                  href="https://www.gatsbyjs.com/"
+                  href="#"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                   rel="noreferrer"
                   target="_blank"
                 >
-                  Gatsby
+                  留学
                 </a>
                 <a
-                  href="https://www.netlifycms.org/"
+                  href="#"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                   rel="noreferrer"
                   target="_blank"
                 >
-                  Netlify CMS
+                  翻译
                 </a>
                 <a
-                  href="https://tailwindcss.com/"
+                  href="#"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                   rel="noreferrer"
                   target="_blank"
                 >
-                  Tailwind CSS
+                  培训
                 </a>
               </div>
 
@@ -119,11 +119,11 @@ const Footer = () => {
                   +1 526 654 8965
                 </span>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  example@email.com
+                  hello@englishtutor.jp
                 </span>
               </div>
             </div>
-          </div> */}
+          </div>
         </div>
 
         <hr className="h-px my-6 bg-gray-300 border-none dark:bg-gray-700" />
