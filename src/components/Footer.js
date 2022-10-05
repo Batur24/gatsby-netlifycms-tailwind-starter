@@ -21,7 +21,7 @@ const Footer = () => {
                 />
                 <div className="text-xl font-bold tracking-wide">
                   <span className="text-gray-800 font-semibold">日本</span>
-                  <span className="text-green-700">华人服务</span>
+                  <span className="text-green-700">华人教育</span>
                 </div>
               </Link>
 

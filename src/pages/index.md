@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: 日本华人服务
+title: 日本华人教育
 image: /img/temple.jpg
 heading: 开始您的日本留学生活
 subheading: "您的新旅程，让我们为您服务。あなたの新しい旅、私たちがあなたに仕えましょう。"

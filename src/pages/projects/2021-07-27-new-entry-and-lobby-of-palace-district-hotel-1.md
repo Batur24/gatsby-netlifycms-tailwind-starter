@@ -4,12 +4,9 @@ title: 日语培训
 date: 2022-1-3T16:01:51.183Z
 featured: false
 featuredimage:
-  alt: Modern building with green outdoor space
+  alt: 日语培训
   image: /img/learn-japanese.jpeg
 location: 日本語研修
 ---
-Photo by [Ricardo Gomez Angel](https://unsplash.com/@ripato?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/collections/kDVcVtpJNeA/urban-garden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris accumsan tellus purus, id iaculis metus congue ac. Curabitur a urna ac nisl fermentum tincidunt. Curabitur enim urna, dictum ut mattis et, scelerisque sit amet enim. Duis vehicula nibh ut rutrum imperdiet. Curabitur eu tortor vitae nisl vulputate semper. Curabitur rutrum molestie mi, quis porttitor mi consequat ac. Nulla semper fermentum elit, sit amet ultricies nisl interdum a. Suspendisse mattis sapien in neque ornare lobortis. Ut ullamcorper velit quis dolor bibendum, id finibus ipsum varius. Maecenas quis blandit mi, at feugiat nibh. Nullam a neque a massa scelerisque eleifend vitae nec est. Vestibulum lectus eros, ullamcorper id tempor ac, scelerisque sed ex. Aenean semper purus quis neque facilisis, ut vestibulum elit consequat. Pellentesque vel neque iaculis, rutrum dolor in, bibendum metus.
-
-Proin nec metus congue purus tincidunt consequat ac vel metus. Aenean porttitor lorem ut neque maximus mattis. Nunc in rutrum nisl. Integer blandit, lectus ac accumsan efficitur, libero est semper felis, non gravida orci erat aliquet lectus. Aenean quis leo eget odio vulputate interdum. Aenean imperdiet auctor enim vel consectetur. Proin vel nisi ligula. Maecenas commodo dictum dui quis accumsan. Morbi commodo justo sed consectetur luctus. Mauris elementum eros ligula, quis dignissim nisi venenatis quis. Vestibulum eleifend nunc magna, sed luctus tellus commodo vel.
+您不久后就要移居至日本，您是否渴望获得灵活的学习日程？想在沙发上、办公室、甚至附近的咖啡厅的舒适环境学习课程？我们有足够的注册辅导老师，现在联系我们的客服可以获得免费的日语试课的机会。

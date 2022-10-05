@@ -9,10 +9,10 @@ contactform:
   image: /img/copernico-p_kicqcom4s-unsplash-1-.jpg
 office:
   tagline: 办公室
-  location: 东京东山町143号
+  location: 东京江户川区东小松川
   address: |-
-    日本华人咨询\
-    143号东山町\
+    日本华人教育\
+    东京江户川区东小松川\
     东京
   phone: |-
     Email: hello@englishtutor.jp\

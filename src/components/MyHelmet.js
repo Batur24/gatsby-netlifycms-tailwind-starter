@@ -4,7 +4,7 @@ import { Helmet } from "react-helmet"
 function MyHelmet({ title, description }) {
   return (
     <Helmet>
-      {title ? <title>{title} | 日本华人咨询</title> : null}
+      {title ? <title>{title} | 教育</title> : null}
       {description ? <meta name="description" content={description} /> : null}
     </Helmet>
   )
