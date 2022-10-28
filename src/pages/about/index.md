@@ -10,12 +10,6 @@ team:
   - name: 张令英
     title: 课程顾问
     image: /img/2.png
-  # - name: 李原
-  #   title: 课程顾问
-  #   image: /img/brooke-cagle-norsyxmhgpi-unsplash-1-.jpg
-  # - name: 王国民
-  #   title: 课程顾问
-  #   image: /img/bruce-mars-8yg31xn4dsw-unsplash-1-.jpg
 ---
 ### 我们是谁？
 
