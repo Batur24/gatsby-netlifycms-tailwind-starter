@@ -39,7 +39,7 @@
     "react-helmet": "^6.1.0"
   },
   "resolutions": {
-    "graphql": "^15.5.3"
+     "graphql": "15.x"
   },
   "devDependencies": {
     "autoprefixer": "^10.3.4",
