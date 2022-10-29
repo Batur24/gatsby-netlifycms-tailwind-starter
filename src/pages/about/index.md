@@ -5,11 +5,11 @@ heading: 关于我们
 subheading: 我们的价值、使命和文化
 team:
   - name: 郑晓华
-    image: /img/1.png
-    title: 高级教师
-  - name: 张令英
     title: 课程顾问
-    image: /img/2.png
+    image: /img/joanna-nix-walkup-p7zgmc33s0u-unsplash.jpg
+  - name: Michael Foster
+    title: 课程顾问
+    image: /img/rui-silvestre-hamjpesmede-unsplash.jpg
 ---
 ### 我们是谁？
 
